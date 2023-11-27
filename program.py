@@ -3,6 +3,7 @@ def main():
     print(98)
     print(00)
     print(88)
+    print('sjf')
 
 
 if __name__ == '__main__':
